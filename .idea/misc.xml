@@ -3,14 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/手把手教你学会AndroidApp开发-入门篇/28.1-28.3一个记事本app实例/NoteApp281/app/src/main/res/drawable-v24/btn_bg_selector.xml" value="0.26979166666666665" />
-        <entry key="..\:/手把手教你学会AndroidApp开发-入门篇/28.1-28.3一个记事本app实例/NoteApp281/app/src/main/res/drawable/btn_bg_selector.xml" value="0.26979166666666665" />
-        <entry key="..\:/手把手教你学会AndroidApp开发-入门篇/28.1-28.3一个记事本app实例/NoteApp281/app/src/main/res/layout/activity_add.xml" value="0.264" />
-        <entry key="..\:/手把手教你学会AndroidApp开发-入门篇/28.1-28.3一个记事本app实例/NoteApp281/app/src/main/res/layout/activity_edit.xml" value="0.1" />
-        <entry key="..\:/手把手教你学会AndroidApp开发-入门篇/28.1-28.3一个记事本app实例/NoteApp281/app/src/main/res/layout/activity_main.xml" value="0.1296875" />
-        <entry key="..\:/手把手教你学会AndroidApp开发-入门篇/28.1-28.3一个记事本app实例/NoteApp281/app/src/main/res/layout/list_item_dialog_layout.xml" value="0.25364583333333335" />
-        <entry key="..\:/手把手教你学会AndroidApp开发-入门篇/28.1-28.3一个记事本app实例/NoteApp281/app/src/main/res/layout/list_item_grid_layout.xml" value="0.25364583333333335" />
-        <entry key="..\:/手把手教你学会AndroidApp开发-入门篇/28.1-28.3一个记事本app实例/NoteApp281/app/src/main/res/layout/list_item_layout.xml" value="0.2" />
+        <entry key="..\:/AndroidApp开发/记事本app/NoteApp281/app/src/main/res/drawable-v24/btn_bg_selector.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidApp开发/记事本app/NoteApp281/app/src/main/res/drawable/btn_bg_selector.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidApp开发/记事本app/NoteApp281/app/src/main/res/layout/activity_add.xml" value="0.264" />
+        <entry key="..\:/AndroidApp开发/记事本app/NoteApp281/app/src/main/res/layout/activity_edit.xml" value="0.1" />
+        <entry key="..\:/AndroidApp开发/记事本app/NoteApp281/app/src/main/res/layout/activity_main.xml" value="0.1296875" />
+        <entry key="..\:/AndroidApp开发/记事本app/NoteApp281/app/src/main/res/layout/list_item_dialog_layout.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidApp开发/记事本app/NoteApp281/app/src/main/res/layout/list_item_grid_layout.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidApp开发/记事本app/NoteApp281/app/src/main/res/layout/list_item_layout.xml" value="0.2" />
       </map>
     </option>
   </component>
